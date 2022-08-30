@@ -1,2 +1,3 @@
 my first readme
-excellent programme
+excellent programmer
+fast programmer
