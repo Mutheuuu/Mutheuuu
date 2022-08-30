@@ -1,3 +1,3 @@
 my first readme
-excellent programmer
+good programmer
 fast programmer
